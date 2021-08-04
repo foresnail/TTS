@@ -1,2 +1,2 @@
 # TelemetryTimeSync
-Nanosecond-level Time Synchronization based on Telemetry Architecture
+Nanosecond-level Time Synchronization based on Telemetry
